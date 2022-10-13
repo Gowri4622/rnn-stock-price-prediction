@@ -30,7 +30,7 @@ Follow the same steps to create the Test data. But make sure you combine the tra
 Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
-```
+```python
 # Developed By: Gowri M
 # Register Number:212220230019
 
